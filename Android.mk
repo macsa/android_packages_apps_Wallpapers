@@ -22,6 +22,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_PACKAGE_NAME := Wallpapers
 
-LOCAL_OVERRIDES_PACKAGES := CMStats CMWallpapers Protips Provision QuickSearchBox SpareParts CMUpdateNotify CMGapps
+LOCAL_OVERRIDES_PACKAGES := Protips Provision QuickSearchBox SpareParts SpeechRecorder
 
 include $(BUILD_PACKAGE)
