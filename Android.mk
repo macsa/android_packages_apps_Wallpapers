@@ -22,6 +22,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_PACKAGE_NAME := Wallpapers
 
-LOCAL_OVERRIDES_PACKAGES := OpenWnn PinyinIME Protips Provision QuickSearchBox libWnnJpnDic libwnndict SpareParts SpareParts2 SpeechRecorder
+LOCAL_OVERRIDES_PACKAGES := OpenWnn PinyinIME Protips Provision QuickSearchBox libWnnJpnDic libwnndict SpareParts SpeechRecorder
 
 include $(BUILD_PACKAGE)
